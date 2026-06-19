@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1781814766444" clover="3.2.0">
+  <project timestamp="1781814766445" name="All files">
+    <metrics statements="50" coveredstatements="47" conditionals="15" coveredconditionals="13" methods="11" coveredmethods="10" elements="76" coveredelements="70" complexity="0" loc="50" ncloc="50" packages="1" files="1" classes="1"/>
+    <file name="App.jsx" path="C:\Users\27die\Downloads\ProyectoRedNorte2\Frontend-RedNorte\src\App.jsx">
+      <metrics statements="50" coveredstatements="47" conditionals="15" coveredconditionals="13" methods="11" coveredmethods="10"/>
+      <line num="9" count="13" type="stmt"/>
+      <line num="10" count="13" type="stmt"/>
+      <line num="11" count="13" type="stmt"/>
+      <line num="12" count="13" type="stmt"/>
+      <line num="13" count="13" type="stmt"/>
+      <line num="14" count="13" type="stmt"/>
+      <line num="15" count="13" type="stmt"/>
+      <line num="17" count="13" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="26" count="13" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="31" count="13" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="35" count="13" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="42" count="13" type="cond" truecount="0" falsecount="1"/>
+      <line num="43" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="56" count="13" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="61" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="69" count="13" type="stmt"/>
+      <line num="75" count="1" type="stmt"/>
+      <line num="81" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="87" count="1" type="stmt"/>
+      <line num="98" count="1" type="stmt"/>
+      <line num="99" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
